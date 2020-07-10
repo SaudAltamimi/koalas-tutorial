@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/databricks/koalas/master/icons/koalas-logo.png" width="140"/>
 </p>
 
-Why Koalas?
+Why ***Koalas***?
 
 * Be immediately productive with **_Spark_**, with no learning curve, if you are already familiar with pandas.
 
